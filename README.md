@@ -26,16 +26,6 @@ Você pode visualizar e experimentar o design completo no Figma:
 
 ---
 
-## 📸 Capturas do design
-
-Abaixo estão exemplos de telas e componentes exportados do projeto:
-
-![Tela Inicial](./docs/telas-principais.png)
-
-![Protótipo em ação](./docs/prototipo.gif)
-
----
-
 ## 🧩 Páginas e fluxos contemplados
 
 - Tela de boas-vindas
@@ -71,10 +61,3 @@ Nesse projeto, desenvolvi:
 
 ---
 
-## 🗂️ Como usar este repositório
-
-Este repositório serve como vitrine do design do EducaFina.
-
-1. Explore o protótipo no próprio Figma (link acima).  
-2. Veja as imagens em `docs/` para ter uma visão rápida das telas.  
-3. Use este projeto como referência de layout e lógica de interface.
